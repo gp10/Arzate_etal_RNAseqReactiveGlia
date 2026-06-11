@@ -1,2 +1,3 @@
 # Arzate_etal_RNAseqReactiveGlia
-RNA-seq analysis of reactive glia from Arzate et al
+RNA-seq analysis code of reactive glia from:
+  > Dulce María Arzate*, Víctor Álvaro*, Ana Victoria Prádanos-Senén, et al. (2026) _under review_
